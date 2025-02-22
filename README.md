@@ -1,9 +1,9 @@
 # Namaskāram(നമസ്കാരം) 👋, I'm Manukrishna AKA eMKay.
 
 # 💫 About Me:
-🔭 I’m currently working on : [Local LMM chatbot](https://github.com/JustEmkay/ollamaxchatbot) <br>
-🌱 I’m currently learning : ChromaDB and Prompt Engineering.
-<br>⚡ Fun fact : I even writing O(N!) script to make things work 🤪. 
+🔭 I’m currently working at Startup Company 
+🌱 I’m currently learning : No idea dude!! I'm learning multiple things on Hourly basis 😭.
+<br>⚡ Fun fact : I have OCD 
 ---
 [![](https://visitcount.itsvg.in/api?id=JustEmkay&icon=0&color=1)](https://visitcount.itsvg.in)
 
