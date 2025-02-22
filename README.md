@@ -5,7 +5,7 @@
 🌱 I’m currently learning : No idea dude!! I'm learning multiple things on Hourly basis 😭.
 <br>⚡ Fun fact : I have OCD 
 ---
-[![](https://visitcount.itsvg.in/api?id=JustEmkay&icon=0&color=1)](https://visitcount.itsvg.in)
+![visits](https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FJustEmkay&s=40&c=00ff00&bg=00000000&no=2&ff=digi&tb=&ta=)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manukrishna-t-m/) 
