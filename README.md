@@ -1,9 +1,9 @@
 # Namaskāram(നമസ്കാരം) 👋, I'm Manukrishna AKA eMKay.
 
 # 💫 About Me:
-🔭 I’m currently working at Startup Company as AI Developer [i.e Fullstack Development + AI ]
-<br>🌱 I’m currently learning : No idea dude!! I'm learning multiple things on Hourly basis 😭.
-<br>⚡ Fun fact : I Love Experimenting with Techs.
+### 🔭 I’m currently working at Startup Company as AI Developer [i.e Fullstack Development + AI ]<br> 
+### 🌱 I’m currently learning : Backend orchestration using cursor.ai<br>
+### ⚡ Fun fact : I Love Experimenting with Techs.
 ---
 ![visits](https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FJustEmkay&s=40&c=00ff00&bg=00000000&no=2&ff=digi&tb=&ta=)
 
