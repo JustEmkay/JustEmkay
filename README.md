@@ -1,9 +1,9 @@
 # Namaskāram(നമസ്കാരം) 👋, I'm Manukrishna AKA eMKay.
 
-# 💫 About Me:
-🔭 I’m currently working at Startup Company as AI Developer [i.e AI/MLBackend Development]<br> 
-🌱 I’m currently learning : Backend orchestration using cursor.ai<br>
-⚡ Fun fact : I Love Experimenting with Techs.
+## 💫 About Me:
+<p>🔭 I’m currently working at Startup Firm as AI Developer [i.e AI/MLBackend Development]</p>
+<p>🌱 I’m currently learning : Backend orchestration using cursor.ai</p>
+<p>⚡ Fun fact : I Love Experimenting with Techs.</p>
 ---
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manukrishna-t-m/) 
