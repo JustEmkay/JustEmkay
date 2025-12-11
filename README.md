@@ -7,7 +7,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manukrishna-t-m/) [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/manukrishnatm)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manukrishna-t-m/) [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/justmk)
 
 
 # 💻 Tech Stack:
